@@ -33,6 +33,3 @@ popular content types, and top-performing regions.
 - dashboard.jpeg
 
 
-## 📸 Dashboard Screenshot
-![Dashboard](dashboard.png)
-
