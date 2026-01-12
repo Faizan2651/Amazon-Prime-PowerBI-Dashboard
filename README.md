@@ -31,3 +31,8 @@ popular content types, and top-performing regions.
 - AMAZON_DASHBOARD.pbix
 - Amazon prime project_PPT.pptx
 - dashboard.jpeg
+
+
+## 📸 Dashboard Screenshot
+![Dashboard](dashboard.png)
+
